@@ -4,6 +4,12 @@ public class CustomerDetails {
 private void customerId() {
 	System.out.println("Cutomer Id  : 6565");
 }
+private void customerName() {
+	System.out.println("Customer Name : Chozhan");
+}
+private void customerMobileNo() {
+	System.out.println("9054879898");
+}
 private void cusAddress() {
 	System.out.println("Customer Addres : ThiruNagar Chennai 600083");
 }
@@ -12,6 +18,5 @@ private void cusAadharNo() {
 }
 private void cusStatus() {
 	System.out.println("Status : Single");
-
 }
 }
